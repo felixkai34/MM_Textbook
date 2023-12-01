@@ -1,4 +1,4 @@
-import tbs from '../../src/tbs.json'
+import tbs from '../../src/Tbs.json'
 import Tbscompo from '../components/Tbscompo';
 
 function G11tbs() {
