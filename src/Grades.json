@@ -1,0 +1,64 @@
+{
+    "All_Grades": [
+      {
+        "id": 1,
+        "name": "G1 New Textbook",
+        "route": "/g1tbs"
+      },
+      {
+        "id": 2,
+        "name": "G2 New Textbook",
+        "route": "/g2tbs"
+      },
+      {
+        "id": 3,
+        "name": "G3 New Textbook",
+        "route": "/g3tbs"
+      },
+      {
+        "id": 4,
+        "name": "G4 New Textbook",
+        "route": "/g4tbs"
+      },
+      {
+        "id": 5,
+        "name": "G5 New Textbook",
+        "route": "/g5tbs"
+      },
+      {
+        "id": 6,
+        "name": "G6 New Textbook",
+        "route": "/g6tbs"
+      },
+      {
+        "id": 77,
+        "name": "G7 New Textbook",
+        "route": "/g7tbs"
+      },
+      {
+        "id": 8,
+        "name": "G8 New Textbook",
+        "route": "/g8tbs"
+      },
+      {
+        "id": 9,
+        "name": "G9 New Textbook",
+        "route": "/g9tbs"
+      },
+      {
+        "id": 10,
+        "name": "G10 New Textbook",
+        "route": "/g10tbs"
+      },
+      {
+        "id": 11,
+        "name": "G11 New Textbook",
+        "route": "g11tbs"
+      },
+      {
+        "id": 12,
+        "name": "G12 New Textbook",
+        "route": "/g12tbs"
+      }
+    ]
+  }
